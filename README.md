@@ -1,2 +1,2 @@
 # CodingQuiz
-interactive tome based js quiz challenge
+interactive time based js quiz challenge
